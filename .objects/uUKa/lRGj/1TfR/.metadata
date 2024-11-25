@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Dispatcher Bot Testing",
+  "Type": "Screen",
+  "Id": "1TfR4bACYECqk6aiiP1fCA",
+  "Reference": "5Dy2sok4ckSgdeqcf10jnw/1TfR4bACYECqk6aiiP1fCA",
+  "ParentRef": "5Dy2sok4ckSgdeqcf10jnw/lRGjsG3MdEagpZxVejjSQg",
+  "Created": "2024-11-25T21:13:52.0524069Z",
+  "Updated": "2024-11-25T21:13:52.0524069Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

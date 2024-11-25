@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="QFZsbfyLzkKYStFiEPWBbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAABESURBVDhPY0i32n4g3Wr7fzLxfgYsgiThQWYADCCzsQHaGUAOpq4LkBXgAzgNIAdT1wXICvABnAaQgweHAfvRBUnAuwEl0a7q96YPWgAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Dispatcher Bot Testing' /&gt;" Title="Dispatcher Bot Testing" Url="https://docs.google.com/forms/d/e/1FAIpQLScl-GqcgOZnNgWo8ApcFajNQMlS7_ZbSjCjc2rMG1s5_iGHcg/viewform?pli=1" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="0b5553289069069a87e849a47b104137.jpg" xmlns="">0pEphJ8NX6EOxt0q9E3_98A</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
